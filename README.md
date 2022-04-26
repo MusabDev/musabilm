@@ -5,7 +5,7 @@ My name is Muhammad Musab. And I'm a Full Stack Web Developer, Mobile Developer 
 
 
 ## 🛠 Skills
-PHP, MySQL, HTML, CSS, JavaScript, jQuery, React JS, React Native, Next.js, Electron JS, Sass, Bootstrap, TailWind CSS, Adobe XD, Figma
+PHP, MySQL, TypeScript, Firebase, HTML, CSS, JavaScript, jQuery, React JS, React Native, Next.js, Electron JS, Tailwind CSS, Sass, Bootstrap, Adobe XD, Figma
 
 
 ## 🔗 Links
