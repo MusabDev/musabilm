@@ -1,8 +1,7 @@
 # Hi, I'm Muhammad Musab! 👋
 
 ## 🚀 About Me
-My name is Muhammad Musab. And I'm a Full Stack Web Developer, Mobile Developer & UI/UX Designer. I love programming. So, you Hire Me anytime!
-
+My name is Muhammad Musab. And I'm a Software Developer. I love programming. And learning new technologies.
 
 ## 🛠 Skills
 PHP, MySQL, TypeScript, Firebase, HTML, CSS, JavaScript, jQuery, React JS, React Native, Next.js, Electron JS, Tailwind CSS, Sass, Bootstrap, Adobe XD, Figma
