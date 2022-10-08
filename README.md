@@ -15,7 +15,7 @@ I'm Muhammad Musab a Self-Taught Developer. Who loves programming and ready to l
 **🤖 Software Development**
 - Scripting: Python / GoLang / Node.js
 - Desktop: Python / Electron.js
-- Mobile Development: React Native
+- Mobile Development: React Native / Expo
 
 **🎨 Frontend Development**
 - React.js / Vue.js / Svelte / Astro
@@ -28,6 +28,7 @@ I'm Muhammad Musab a Self-Taught Developer. Who loves programming and ready to l
 - Wireframe Design: Figma / Adobe XD
 - Basic Design: Adobe Illustrator / Adobe Photoshop / Affinity Design
 - Version Control: Git, GitHub
+- Package Manager: Composer / Yarn / PNPm / NPM
 
 ## 🔗 Connect with me
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://musabdev.com/)
