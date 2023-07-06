@@ -1,7 +1,6 @@
 # Hi 👋🏼 I am Musab 
 
 Developer and Content Creator
----------------------
 
 I've been coding since 2018 and I built numerous websites. I also have a YouTube channel where I post tutorial videos once in a while. My favorite tech stacks are Next.js, Prisma, and Tailwind CSS.
 
@@ -18,5 +17,3 @@ I've been coding since 2018 and I built numerous websites. I also have a YouTube
 ### Socials
 
 <p align="left"> <a href="https://discord.com/users/811874543474835456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/PureCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
-
-<a href="http://www.github.com/MusabDev"><img src="https://github-readme-stats.vercel.app/api?username=MusabDev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="MusabDev's GitHub stats" /></a>
