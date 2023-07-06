@@ -1,14 +1,13 @@
-# Hi 👋🏼 My name is Muhammad Musab 
+# Hi 👋🏼 I am Musab 
 
-Self-Taught Developer
+Developer and Content Creator
 ---------------------
 
-As a developer, Muhammad Musab has a passion for creating innovative and effective solutions to complex problems. With a strong background in TypeScript, PHP, Node.js, Next.js, Musab has developed a diverse skillset that enables them to tackle a wide range of projects and challenges. He is constantly seeking out new opportunities to learn and grow, and is dedicated to staying up-to-date with the latest industry developments. Whether working on large-scale enterprise systems or small, nimble startups, Musab approaches every project with dedication, attention to detail, and a focus on delivering high-quality results. Musab is always looking for exciting new opportunities to apply his skills and make a positive impact.
+I've been coding since 2018 and I built numerous websites. I also have a YouTube channel where I post tutorial videos once in a while. My favorite tech stacks are Next.js, Prisma, and Tailwind CSS.
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [Musabdev.com](http://musabdev.com)
+* 🖥️  See my portfolio at [musabdev.com](http://musabdev.com)
 * ✉️  You can contact me at [musabwebdev@gmail.com](mailto:musabwebdev@gmail.com)
-* 🧠  I'm learning Nest.js
+* ⚡  Expert in coding...in my dreams. 💭
 
 <a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MusabDev?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MusabDev?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
 
@@ -18,6 +17,6 @@ As a developer, Muhammad Musab has a passion for creating innovative and effecti
  
 ### Socials
 
-<p align="left"> <a href="https://discord.com/users/811874543474835456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/15903698/muhammad-musab" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/PureCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/811874543474835456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/PureCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 <a href="http://www.github.com/MusabDev"><img src="https://github-readme-stats.vercel.app/api?username=MusabDev&show_icons=true&hide=&count_private=true&title_color=f97316&text_color=ffffff&icon_color=f97316&bg_color=1c1917&hide_border=true&show_icons=true" alt="MusabDev's GitHub stats" /></a>
