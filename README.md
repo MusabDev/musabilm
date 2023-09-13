@@ -2,7 +2,7 @@
 
 Developer and Content Creator
 
-I've been coding since 2018 and I built numerous websites. I also have a YouTube channel where I post tutorial videos once in a while. My favorite tech stacks are Next.js, Prisma, and Tailwind CSS.
+I've been coding since 2018 and I built numerous websites. I also have a YouTube channel where I post tutorial videos once in a while.
 
 * 🖥️  See my portfolio at [musabdev.com](http://musabdev.com)
 * ✉️  You can contact me at [musabwebdev@gmail.com](mailto:musabwebdev@gmail.com)
