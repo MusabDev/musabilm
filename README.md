@@ -1,19 +1,48 @@
-# Hi 👋🏼 I am Musab 
+# Musab - Full-Stack Web Developer
 
-Developer and Content Creator
+Welcome to my GitHub profile! I'm Musab, Developer and Content Creator. Here, you'll find a showcase of my projects, testimonials from satisfied peoples, and a glimpse into the technologies I work with. Visit my website for more information - [musabdev.com](https://musabdev.com).
 
-I've been coding since 2018 and I built numerous websites. I also have a YouTube channel where I post tutorial videos once in a while.
+## Projects
 
-* 🖥️  See my portfolio at [musabdev.com](http://musabdev.com)
-* ✉️  You can contact me at [musabwebdev@gmail.com](mailto:musabwebdev@gmail.com)
-* ⚡  Expert in coding...in my dreams. 💭
+| Project Name            | Description                                                                                      | Demo Link                                              |
+|-------------------------|--------------------------------------------------------------------------------------------------|--------------------------------------------------------|
+| (Coming Soon) CodeBattle| Engage in diverse coding challenges, climb the developer leaderboard, explore job opportunities, and more. | [codebattle.dev](https://codebattle.dev) |
+| AI Room Generator       | Create unique rooms effortlessly with a few straightforward steps using the AI Room Generator.    | [MusabDev/roomgenerator](https://github.com/MusabDev/roomgenerator)                                              |
+| Web-based File Manager  | Effortless file management with features like remote upload, drag-and-drop, modern interface, trash, logging system, and more. |                                   |
 
-<a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/MusabDev?logo=github&style=for-the-badge&color=f97316&labelColor=1c1917" /></a><a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://img.shields.io/twitter/follow/MusabDev?logo=twitter&style=for-the-badge&color=f97316&labelColor=1c1917" /></a>
+## Testimonials
 
-### Skills  
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 20px;">
 
-<p align="left"> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a> <a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a> <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a> <a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" /></a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a> <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="NextJs" /></a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a> <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> <a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a> <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a> <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a> <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a> <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="36" height="36" alt="Express" /></a> <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" /></a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> </p> 
- 
-### Socials
+  <div>
+    <h3>Abdulaziz Alghamdi</h3>
+    <blockquote>"It is not the first time, and it is not the last time I deal with Mr. Musab, very cooperative and patient with all open heart, he has done a tremendous job serving more than 700 customers a month."</blockquote>
+  </div>
 
-<p align="left"> <a href="https://discord.com/users/811874543474835456" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MusabDev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/PureCoding" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
+  <div>
+    <h3>Sameer Ahmed</h3>
+    <blockquote>"I've worked with Musab many times over the course of a few months, and he's been excellent to work with. Instant communication, a wide skillset, and understands just about any type of project, even the ones with complex and unique requirements. Highly recommended!"</blockquote>
+  </div>
+
+  <div>
+    <h3>WinnersEtuDe</h3>
+    <blockquote>"I really like his consistency in work, his understanding, he is friendly and courteous, he is also quick in his work and does his job well."</blockquote>
+  </div>
+
+  <div>
+    <h3>Neil Sultana</h3>
+    <blockquote>"From the initial consultation to the final launch, Musab demonstrated a deep understanding of my needs and a commitment to delivering the best possible product. He was attentive to details, creative in problem-solving, and always willing to go the extra mile to ensure client satisfaction. I am grateful to have worked with such a talented and passionate developer, and for sure I recommend his services to anyone looking for a seamless user experience and a great end result! Thank you, Musab."</blockquote>
+  </div>
+
+  <div>
+    <h3>Manolis</h3>
+    <blockquote>"Fast, informative, and skillful! Deadline was 7 days and finished the project in 2. Great communication and willing to help. Would definitely work with him again."</blockquote>
+  </div>
+</div>
+
+## About Me
+
+Hey, I'm Musab, a Full-Stack Web Developer since 2018. Currently, I'm working on [codebattle.dev](https://codebattle.dev), a platform to help developers practice and get hired. I also share my knowledge through my YouTube channel, [PureCoding](https://www.youtube.com/PureCoding), where I teach people to code.
+
+- **Website:** [musabdev.com](https://musabdev.com)
+- **Email:** musabwebdev@gmail.com
