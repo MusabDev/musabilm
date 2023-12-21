@@ -1,6 +1,6 @@
-# Musab - Full-Stack Web Developer
+# Musab - Developer and Content Creator
 
-Welcome to my GitHub profile! I'm Musab, Developer and Content Creator. Here, you'll find a showcase of my projects, testimonials from satisfied peoples, and a glimpse into the technologies I work with. Visit my website for more information - [musabdev.com](https://musabdev.com).
+Welcome to my GitHub profile! I'm Musab, a Developer and Content Creator. Here, you'll find a showcase of my projects, testimonials from satisfied peoples, and a glimpse into the technologies I work with. Visit my website for more information - [musabdev.com](https://musabdev.com).
 
 ## Projects
 
