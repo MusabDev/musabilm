@@ -8,13 +8,11 @@ Welcome to my GitHub profile! I'm Musab, a Developer and Content Creator. Here, 
 - **Next.js** for building dynamic and performant web applications with server-side rendering and efficient client-side navigation.
 - **React.js** for creating interactive and reusable UI components, providing a powerful foundation for building modern web interfaces.
 - **Tailwind CSS** for designing responsive and utility-first user interfaces, enabling rapid styling and customization.
+- **Prisma** as ORM that I use in Node.js and Next.js to make working with databases easier.
 - **Node.js** for server-side JavaScript development, facilitating scalable and high-performance applications.
-- **Express.js** for building robust and modular web applications and APIs using Node.js, simplifying the development of server-side logic.
-- **MySQL** for managing relational databases and ensuring efficient data storage and retrieval in web applications.
-- **JavaScript** as a versatile scripting language for both frontend and backend development, allowing for dynamic and interactive user experiences.
 - **PHP** for server-side scripting and web development, offering a widely-used and powerful solution for building dynamic websites.
+- **MySQL** for managing relational databases and ensuring efficient data storage and retrieval in web applications.
 - _and much more_
-
 
 ## 📫 Let's Connect
 
